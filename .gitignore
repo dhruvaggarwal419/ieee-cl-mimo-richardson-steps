@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.blg
+*.bbl
+.DS_Store
+*.npz
+*.npy
+.env
